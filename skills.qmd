@@ -11,22 +11,22 @@ I possess a diverse set of technical skills acquired through education, professi
 :::: {style="display: flex; flex-wrap: wrap;"}
 ::: {style="flex: 0 0 250px; margin: 10px;"}
 **C#**  
-![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20} ![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20} ![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20} ![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20}
+![Skill Level](images/skill-level.png){width=20} ![Skill Level](images/skill-level.png){width=20} ![Skill Level](images/skill-level.png){width=20} ![Skill Level](images/skill-level.png){width=20}
 :::
 
 ::: {style="flex: 0 0 250px; margin: 10px;"}
 **C++**  
-![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20} ![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20} ![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20} ![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20}
+![Skill Level](images/skill-level.png){width=20} ![Skill Level](images/skill-level.png){width=20} ![Skill Level](images/skill-level.png){width=20} ![Skill Level](images/skill-level.png){width=20}
 :::
 
 ::: {style="flex: 0 0 250px; margin: 10px;"}
 **Java**  
-![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20} ![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20} ![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20}
+![Skill Level](images/skill-level.png){width=20} ![Skill Level](images/skill-level.png){width=20} ![Skill Level](images/skill-level.png){width=20}
 :::
 
 ::: {style="flex: 0 0 250px; margin: 10px;"}
 **Python**  
-![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20} ![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20} ![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20}
+![Skill Level](images/skill-level.png){width=20} ![Skill Level](images/skill-level.png){width=20} ![Skill Level](images/skill-level.png){width=20}
 :::
 ::::
 
@@ -35,17 +35,17 @@ I possess a diverse set of technical skills acquired through education, professi
 :::: {style="display: flex; flex-wrap: wrap;"}
 ::: {style="flex: 0 0 250px; margin: 10px;"}
 **Arduino**  
-![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20} ![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20} ![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20} ![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20}
+![Skill Level](images/skill-level.png){width=20} ![Skill Level](images/skill-level.png){width=20} ![Skill Level](images/skill-level.png){width=20} ![Skill Level](images/skill-level.png){width=20}
 :::
 
 ::: {style="flex: 0 0 250px; margin: 10px;"}
 **Soldering**  
-![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20} ![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20} ![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20}
+![Skill Level](images/skill-level.png){width=20} ![Skill Level](images/skill-level.png){width=20} ![Skill Level](images/skill-level.png){width=20}
 :::
 
 ::: {style="flex: 0 0 250px; margin: 10px;"}
 **3D Printing**  
-![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20} ![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20} ![Skill Level](https://avatars.githubusercontent.com/u/placeholder?s=20){width=20}
+![Skill Level](images/skill-level.png){width=20} ![Skill Level](images/skill-level.png){width=20} ![Skill Level](images/skill-level.png){width=20}
 :::
 ::::
 
@@ -61,7 +61,7 @@ I possess a diverse set of technical skills acquired through education, professi
 
 :::: {style="display: flex; align-items: center; margin-bottom: 20px;"}
 ::: {style="flex: 0 0 80px;"}
-![SIT Logo](https://avatars.githubusercontent.com/u/placeholder?s=80){width=80}
+![SIT Logo](images/sit-logo.png){width=80}
 :::
 ::: {style="flex: 1; padding-left: 20px;"}
 **Applied Artificial Intelligence**  
@@ -78,7 +78,7 @@ Currently pursuing a degree in Applied Artificial Intelligence, focusing on:
 
 :::: {style="display: flex; align-items: center; margin-bottom: 20px;"}
 ::: {style="flex: 0 0 80px;"}
-![NP Logo](https://avatars.githubusercontent.com/u/placeholder?s=80){width=80}
+![NP Logo](images/np_logo.jpg){width=80}
 :::
 ::: {style="flex: 1; padding-left: 20px;"}
 **Engineering Science**  

@@ -4,7 +4,7 @@ title: "Dion Ko"
 
 ## Welcome to My Personal Website
 
-![Profile Photo](https://avatars.githubusercontent.com/u/placeholder?s=200){width=150 style="border-radius: 50%; float: right; margin-left: 20px;"}
+![Profile Photo](images/profile-photo.jpg){width=150 style="border-radius: 50%; float: right; margin-left: 20px;"}
 
 ### About Me
 

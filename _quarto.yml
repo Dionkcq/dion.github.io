@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+  resources:
+    - images/
 
 website:
   title: "Dion Ko | Personal Website"

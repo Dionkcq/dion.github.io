@@ -8,7 +8,7 @@ title: "Experience"
 
 :::: {style="display: flex; align-items: center; margin-bottom: 20px;"}
 ::: {style="flex: 0 0 80px;"}
-![SAF Logo](https://avatars.githubusercontent.com/u/placeholder?s=80){width=80}
+![SAF Logo](images/saf-logo.png){width=80}
 :::
 ::: {style="flex: 1; padding-left: 20px;"}
 **Army Personnel at Singapore Armed Forces (SAF)**  
@@ -27,7 +27,7 @@ During my service in the Chemical, Biological, Radiological, and Explosive (CBRE
 
 :::: {style="display: flex; align-items: center; margin-bottom: 20px;"}
 ::: {style="flex: 0 0 80px;"}
-![NP Logo](https://avatars.githubusercontent.com/u/placeholder?s=80){width=80}
+![NP Logo](images/np_logo.jpg){width=80}
 :::
 ::: {style="flex: 1; padding-left: 20px;"}
 **Design and Development Officer at Ngee Ann Polytechnic**  
@@ -42,7 +42,7 @@ During my service in the Chemical, Biological, Radiological, and Explosive (CBRE
 
 :::: {style="display: flex; align-items: center; margin-bottom: 20px;"}
 ::: {style="flex: 0 0 80px;"}
-![NP Logo](https://avatars.githubusercontent.com/u/placeholder?s=80){width=80}
+![NP Logo](images/np_logo.jpg){width=80}
 :::
 ::: {style="flex: 1; padding-left: 20px;"}
 **Design and Development Officer at Ngee Ann Polytechnic**  

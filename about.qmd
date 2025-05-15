@@ -8,7 +8,7 @@ Here you'll find information about various projects I've worked on, showcasing m
 
 ### TradeWarCoin - Memecoin Project
 
-![TradeWarCoin Logo](https://avatars.githubusercontent.com/u/placeholder?s=80){width=80 style="float: left; margin-right: 20px;"}
+![TradeWarCoin Logo](images/tradewarcoin-logo.png){width=80 style="float: left; margin-right: 20px;"}
 
 **TradeWarCoin** is a memecoin I recently developed on the Solana blockchain. This project demonstrates my interest and capabilities in cryptocurrency development and blockchain technology.
 
