@@ -1,11 +1,32 @@
 ---
-title: "temp_website"
+title: "Dion Ko"
 ---
 
-This is a Quarto website.
+## Welcome to My Personal Website
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![Profile Photo](https://avatars.githubusercontent.com/u/placeholder?s=200){width=150 style="border-radius: 50%; float: right; margin-left: 20px;"}
+
+### About Me
+
+Hello! I'm Dion Ko, an Applied Artificial Intelligence student at Singapore Institute of Technology with a robust foundation in engineering science. I bring a combination of technical expertise from my education and professional experience, along with disciplined teamwork skills developed during my service in the Singapore Armed Forces.
+
+> "Continuously learning and refining my skills to tackle problems with meticulous attention to detail."
+
+### Currently
+
+- 🎓 Studying **Applied Artificial Intelligence** at Singapore Institute of Technology (2024-Present)
+- 💻 Exploring blockchain technologies and working on cryptocurrency projects
+- 🔍 Interested in the intersection of AI, engineering, and innovative technological solutions
+
+### Quick Links
+
+- [My Projects](projects.qmd) - Including my recent work on TradeCoin
+- [Experience](experience.qmd) - My professional and military background
+- [Skills & Education](skills.qmd) - Technical capabilities and academic journey
+- [GenAI Reflection](reflection.qmd) - Thoughts on using generative AI tools
 
 ```{r}
-1 + 1
+#| echo: false
+#| include: false
+# This code chunk is hidden and not executed
 ```

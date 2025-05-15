@@ -1,0 +1,72 @@
+---
+title: "Experience"
+---
+
+## Professional Experience
+
+### Military Service
+
+:::: {style="display: flex; align-items: center; margin-bottom: 20px;"}
+::: {style="flex: 0 0 80px;"}
+![SAF Logo](https://avatars.githubusercontent.com/u/placeholder?s=80){width=80}
+:::
+::: {style="flex: 1; padding-left: 20px;"}
+**Army Personnel at Singapore Armed Forces (SAF)**  
+*September 2022 — July 2024*
+:::
+::::
+
+During my service in the Chemical, Biological, Radiological, and Explosive (CBRE) Defense Unit:
+
+- Received specialized training in countermeasures against chemical, biological, radiological, and explosive threats
+- Participated in high-profile peacetime operations, including security detail at Parliament House during National Day Parade
+- Conducted regular security sweeps for explosives at hotels and venues prior to VIP arrivals
+- Developed strong discipline, teamwork, and performance under pressure
+
+### Design and Development Work
+
+:::: {style="display: flex; align-items: center; margin-bottom: 20px;"}
+::: {style="flex: 0 0 80px;"}
+![NP Logo](https://avatars.githubusercontent.com/u/placeholder?s=80){width=80}
+:::
+::: {style="flex: 1; padding-left: 20px;"}
+**Design and Development Officer at Ngee Ann Polytechnic**  
+*May 2022 — September 2022*
+:::
+::::
+
+- Spearheaded a Keppel Data Centers-funded project focused on device efficiency
+- Enhanced battery longevity through voltage analysis and optimization
+- Integrated hardware components including step-up regulators
+- Demonstrated and tested improvements on-site with Keppel Data Centers
+
+:::: {style="display: flex; align-items: center; margin-bottom: 20px;"}
+::: {style="flex: 0 0 80px;"}
+![NP Logo](https://avatars.githubusercontent.com/u/placeholder?s=80){width=80}
+:::
+::: {style="flex: 1; padding-left: 20px;"}
+**Design and Development Officer at Ngee Ann Polytechnic**  
+*August 2021 — October 2021*
+:::
+::::
+
+- Continued development of a communication system Final Year Project
+- Created Arduino-based devices using C++ programming
+- Implemented error-checking protocols and data filtering algorithms
+- Refined user interface for improved usability
+
+## What I've Learned
+
+My combined experiences have taught me:
+
+- **Problem-solving under constraints** - From debugging hardware issues to securing high-risk environments
+- **Technical adaptability** - Quickly learning new systems and technologies as needed
+- **Teamwork in diverse settings** - Collaborating with engineers, military personnel, and corporate partners
+- **Attention to detail** - Whether coding error-checking systems or conducting security sweeps
+- **Project lifecycle management** - From concept to testing and implementation
+
+```{r}
+#| echo: false
+#| include: false
+# This code chunk is hidden and not executed
+```

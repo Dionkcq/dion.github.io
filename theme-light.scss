@@ -1,0 +1,60 @@
+/*-- scss:defaults --*/
+// Light theme customization
+
+// Colors
+$primary: #0056b3;
+$secondary: #6c757d;
+$success: #28a745;
+$info: #17a2b8;
+$warning: #ffc107;
+$danger: #dc3545;
+$light: #f8f9fa;
+$dark: #343a40;
+
+// Base document colors
+$body-bg: #ffffff;
+$body-color: #212529;
+$link-color: $primary;
+$code-color: #e83e8c;
+
+// Fonts
+$font-family-sans-serif: 'Segoe UI', system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
+$font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+
+// Navbar
+$navbar-bg: $primary;
+$navbar-fg: $light;
+
+/*-- scss:rules --*/
+// Additional custom rules for light theme
+
+// Add some subtle depth to cards and containers
+.card, .quarto-grid-item, .callout {
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  transition: all 0.3s ease;
+}
+
+.card:hover, .quarto-grid-item:hover {
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  transform: translateY(-2px);
+}
+
+// Style for project listings
+.project-card {
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 2rem;
+  border: 1px solid #dee2e6;
+}
+
+.project-card h3 {
+  margin-top: 0;
+}
+
+// Special styling for the profile section
+.profile-section {
+  background-color: rgba(0, 86, 179, 0.05);
+  padding: 2rem;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+}
