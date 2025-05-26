@@ -1,0 +1,46 @@
+---
+title: "Projects"
+---
+
+## My Projects
+
+Here you'll find information about various projects I've worked on, showcasing my technical abilities and interests.
+
+### TradeWarCoin - Memecoin Project
+
+![TradeWarCoin Logo](images/tradewarcoin-logo.png){width=80 style="float: left; margin-right: 20px;"}
+
+**TradeWarCoin** is a memecoin I recently developed on the Solana blockchain. This project demonstrates my interest and capabilities in cryptocurrency development and blockchain technology.
+
+- **Website**: [tradewarcoin.com](https://tradewarcoin.com)
+- **DEX Screener**: [View on DexScreener](https://dexscreener.com/solana/TWCDsC5FGoXLxFjiKokBxcKVf8HSLSKH7GGrbnrWAK2)
+- **Technologies Used**: Solana Blockchain, Rust, Web3.js
+- **Purpose**: Exploring decentralized finance while creating an engaging community-driven token
+
+---
+
+### Communication Device Development (Ngee Ann Polytechnic)
+
+As a Design and Development Officer at Ngee Ann Polytechnic, I continued a Final Year Project focused on enhancing communication in confined spaces:
+
+- Developed Arduino-based devices using **C++** for improved communication between confined space personnel and supervisors
+- Implemented error-checking in transmitted data packets to enhance reliability
+- Created data filtering algorithms to reduce noise interference in accelerometer readings
+- Focused on intuitive design for improved user experience
+
+---
+
+### Battery Efficiency Optimization (Keppel Data Centers)
+
+Led a project funded by Keppel Data Centers that focused on:
+
+- Analyzing voltage vs. time data to optimize battery longevity
+- Integrating step-up regulators to enhance device capabilities
+- Conducting on-site testing and demonstrations to showcase improvements
+- Documenting performance enhancements for future development
+
+```{r}
+#| echo: false
+#| include: false
+# This code chunk is hidden and not executed
+```

@@ -1,0 +1,15 @@
+{
+  "hash": "1b3c26c8f3978fc6430de3287e7cb023",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Projects\"\n---\n\n\n\n\n## My Projects\n\nHere you'll find information about various projects I've worked on, showcasing my technical abilities and interests.\n\n### TradeWarCoin - Memecoin Project\n\n![TradeWarCoin Logo](images/tradewarcoin-logo.png){width=80 style=\"float: left; margin-right: 20px;\"}\n\n**TradeWarCoin** is a memecoin I recently developed on the Solana blockchain. This project demonstrates my interest and capabilities in cryptocurrency development and blockchain technology.\n\n- **Website**: [tradewarcoin.com](https://tradewarcoin.com)\n- **DEX Screener**: [View on DexScreener](https://dexscreener.com/solana/TWCDsC5FGoXLxFjiKokBxcKVf8HSLSKH7GGrbnrWAK2)\n- **Technologies Used**: Solana Blockchain, Rust, Web3.js\n- **Purpose**: Exploring decentralized finance while creating an engaging community-driven token\n\n---\n\n### Communication Device Development (Ngee Ann Polytechnic)\n\nAs a Design and Development Officer at Ngee Ann Polytechnic, I continued a Final Year Project focused on enhancing communication in confined spaces:\n\n- Developed Arduino-based devices using **C++** for improved communication between confined space personnel and supervisors\n- Implemented error-checking in transmitted data packets to enhance reliability\n- Created data filtering algorithms to reduce noise interference in accelerometer readings\n- Focused on intuitive design for improved user experience\n\n---\n\n### Battery Efficiency Optimization (Keppel Data Centers)\n\nLed a project funded by Keppel Data Centers that focused on:\n\n- Analyzing voltage vs. time data to optimize battery longevity\n- Integrating step-up regulators to enhance device capabilities\n- Conducting on-site testing and demonstrations to showcase improvements\n- Documenting performance enhancements for future development\n\n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

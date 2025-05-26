@@ -1,0 +1,15 @@
+{
+  "hash": "8ffeed9386eab1b655c60037e6939986",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Dion Ko\"\n---\n\n\n\n\n## Welcome to My Personal Website\n\n![Profile Photo](images/profile-photo.jpg){width=150 style=\"border-radius: 50%; float: right; margin-left: 20px;\"}\n\n### About Me\n\nHello! I'm Dion Ko, an Applied Artificial Intelligence student at Singapore Institute of Technology with a robust foundation in engineering science. I bring a combination of technical expertise from my education and professional experience, along with disciplined teamwork skills developed during my service in the Singapore Armed Forces.\n\n> \"Continuously learning and refining my skills to tackle problems with meticulous attention to detail.\"\n\n### Currently\n\n- 🎓 Studying **Applied Artificial Intelligence** at Singapore Institute of Technology (2024-Present)\n- 💻 Exploring blockchain technologies and working on cryptocurrency projects\n- 🔍 Interested in the intersection of AI, engineering, and innovative technological solutions\n\n### Quick Links\n\n- [My Projects](projects.qmd) - Including my recent work on TradeCoin\n- [Experience](experience.qmd) - My professional and military background\n- [Skills & Education](skills.qmd) - Technical capabilities and academic journey\n- [GenAI Reflection](reflection.qmd) - Thoughts on using generative AI tools\n\n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
