@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dion Ko",
+    "section": "",
+    "text": "Profile Photo\n\n\n\n\nHello! I’m Dion Ko, an Applied Artificial Intelligence student at Singapore Institute of Technology with a robust foundation in engineering science. I bring a combination of technical expertise from my education and professional experience, along with disciplined teamwork skills developed during my service in the Singapore Armed Forces.\n\n“Continuously learning and refining my skills to tackle problems with meticulous attention to detail.”\n\n\n\n\n\n🎓 Studying Applied Artificial Intelligence at Singapore Institute of Technology (2024-Present)\n💻 Exploring blockchain technologies and working on cryptocurrency projects\n🔍 Interested in the intersection of AI, engineering, and innovative technological solutions\n\n\n\n\n\nMy Projects - Including my recent work on TradeCoin\nExperience - My professional and military background\nSkills & Education - Technical capabilities and academic journey\nGenAI Reflection - Thoughts on using generative AI tools"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about",
+    "section": "",
+    "text": "Here you’ll find information about various projects I’ve worked on, showcasing my technical abilities and interests.\n\n\n\n\n\nTradeWarCoin Logo\n\n\nTradeWarCoin is a memecoin I recently developed on the Solana blockchain. This project demonstrates my interest and capabilities in cryptocurrency development and blockchain technology.\n\nWebsite: tradewarcoin.com\nDEX Screener: View on DexScreener\nTechnologies Used: Solana Blockchain, Rust, Web3.js\nPurpose: Exploring decentralized finance while creating an engaging community-driven token\n\n\n\n\n\nAs a Design and Development Officer at Ngee Ann Polytechnic, I continued a Final Year Project focused on enhancing communication in confined spaces:\n\nDeveloped Arduino-based devices using C++ for improved communication between confined space personnel and supervisors\nImplemented error-checking in transmitted data packets to enhance reliability\nCreated data filtering algorithms to reduce noise interference in accelerometer readings\nFocused on intuitive design for improved user experience\n\n\n\n\n\nLed a project funded by Keppel Data Centers that focused on:\n\nAnalyzing voltage vs. time data to optimize battery longevity\nIntegrating step-up regulators to enhance device capabilities\nConducting on-site testing and demonstrations to showcase improvements\nDocumenting performance enhancements for future development"
+  },
+  {
+    "objectID": "index.html#welcome-to-my-personal-website",
+    "href": "index.html#welcome-to-my-personal-website",
+    "title": "Dion Ko",
+    "section": "",
+    "text": "Profile Photo\n\n\n\n\nHello! I’m Dion Ko, an Applied Artificial Intelligence student at Singapore Institute of Technology with a robust foundation in engineering science. I bring a combination of technical expertise from my education and professional experience, along with disciplined teamwork skills developed during my service in the Singapore Armed Forces.\n\n“Continuously learning and refining my skills to tackle problems with meticulous attention to detail.”\n\n\n\n\n\n🎓 Studying Applied Artificial Intelligence at Singapore Institute of Technology (2024-Present)\n💻 Exploring blockchain technologies and working on cryptocurrency projects\n🔍 Interested in the intersection of AI, engineering, and innovative technological solutions\n\n\n\n\n\nMy Projects - Including my recent work on TradeCoin\nExperience - My professional and military background\nSkills & Education - Technical capabilities and academic journey\nGenAI Reflection - Thoughts on using generative AI tools"
+  },
+  {
     "objectID": "skills.html",
     "href": "skills.html",
     "title": "Skills & Education",
@@ -31,6 +52,13 @@
     "objectID": "projects.html#my-projects",
     "href": "projects.html#my-projects",
     "title": "Projects",
+    "section": "",
+    "text": "Here you’ll find information about various projects I’ve worked on, showcasing my technical abilities and interests.\n\n\n\n\n\nTradeWarCoin Logo\n\n\nTradeWarCoin is a memecoin I recently developed on the Solana blockchain. This project demonstrates my interest and capabilities in cryptocurrency development and blockchain technology.\n\nWebsite: tradewarcoin.com\nDEX Screener: View on DexScreener\nTechnologies Used: Solana Blockchain, Rust, Web3.js\nPurpose: Exploring decentralized finance while creating an engaging community-driven token\n\n\n\n\n\nAs a Design and Development Officer at Ngee Ann Polytechnic, I continued a Final Year Project focused on enhancing communication in confined spaces:\n\nDeveloped Arduino-based devices using C++ for improved communication between confined space personnel and supervisors\nImplemented error-checking in transmitted data packets to enhance reliability\nCreated data filtering algorithms to reduce noise interference in accelerometer readings\nFocused on intuitive design for improved user experience\n\n\n\n\n\nLed a project funded by Keppel Data Centers that focused on:\n\nAnalyzing voltage vs. time data to optimize battery longevity\nIntegrating step-up regulators to enhance device capabilities\nConducting on-site testing and demonstrations to showcase improvements\nDocumenting performance enhancements for future development"
+  },
+  {
+    "objectID": "about.html#my-projects",
+    "href": "about.html#my-projects",
+    "title": "about",
     "section": "",
     "text": "Here you’ll find information about various projects I’ve worked on, showcasing my technical abilities and interests.\n\n\n\n\n\nTradeWarCoin Logo\n\n\nTradeWarCoin is a memecoin I recently developed on the Solana blockchain. This project demonstrates my interest and capabilities in cryptocurrency development and blockchain technology.\n\nWebsite: tradewarcoin.com\nDEX Screener: View on DexScreener\nTechnologies Used: Solana Blockchain, Rust, Web3.js\nPurpose: Exploring decentralized finance while creating an engaging community-driven token\n\n\n\n\n\nAs a Design and Development Officer at Ngee Ann Polytechnic, I continued a Final Year Project focused on enhancing communication in confined spaces:\n\nDeveloped Arduino-based devices using C++ for improved communication between confined space personnel and supervisors\nImplemented error-checking in transmitted data packets to enhance reliability\nCreated data filtering algorithms to reduce noise interference in accelerometer readings\nFocused on intuitive design for improved user experience\n\n\n\n\n\nLed a project funded by Keppel Data Centers that focused on:\n\nAnalyzing voltage vs. time data to optimize battery longevity\nIntegrating step-up regulators to enhance device capabilities\nConducting on-site testing and demonstrations to showcase improvements\nDocumenting performance enhancements for future development"
   },
